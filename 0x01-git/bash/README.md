@@ -1,0 +1,1 @@
+__Bash directory__
